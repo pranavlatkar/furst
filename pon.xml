@@ -4,12 +4,12 @@ xsi:schemaLocation=&quot;http://maven.apache.org/POM/4.0.0
 http://maven.apache.org/xsd/maven-4.0.0.xsd&quot;&gt;
 &lt;modelVersion&gt;4.0.0&lt;/modelVersion&gt;
 
-&lt;groupId&gt;com.ninza&lt;/groupId&gt;
-&lt;artifactId&gt;ninza&lt;/artifactId&gt;
+&lt;groupId&gt;com.esper&lt;/groupId&gt;
+&lt;artifactId&gt;esper&lt;/artifactId&gt;
 &lt;version&gt;1.0-SNAPSHOT&lt;/version&gt;
 &lt;packaging&gt;jar&lt;/packaging&gt;
 
-&lt;name&gt;ninza&lt;/name&gt;
+&lt;name&gt;esper&lt;/name&gt;
 
 &lt;properties&gt;
 &lt;maven.compiler.source&gt;1.8&lt;/maven.compiler.source&gt;
@@ -26,4 +26,6 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd&quot;&gt;
 &lt;/plugins&gt;
 &lt;/build&gt;
 
+
 &lt;/project&gt;
+esper no.0001
